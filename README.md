@@ -18,6 +18,7 @@ and other CryptoNight coins...
 
 To setup xmrig, visit https://xmrig.com/wizard
 
+# Instructions for linux
 # Extract miner
 
 Ubuntu 18.04 Bionic beaver:
